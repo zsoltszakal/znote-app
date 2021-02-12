@@ -68,7 +68,7 @@ position: absolute;
 .dbutton {
   background-color: #1e2022;
   margin-top: 15px;
-  color: red;
+  color: #eb4d4b;
   border: 0px;
   float: right;
   font-size: 8px;
@@ -91,7 +91,7 @@ form textarea {
   border: none;
   padding: 4px;
   outline: none;
-  font-size: 1.2em;
+  font-size: 0.9em;
   font-family: inherit;
   resize: none;
   color: #eeeeee;
